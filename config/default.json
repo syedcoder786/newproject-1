@@ -1,0 +1,7 @@
+{
+    "mongoURI":"mongodb+srv://jamiabook:jb123!@cluster0.rdvlu.mongodb.net/newproject_1",
+    "jwtSecret": "secret",
+    "id": "4e141a3d-5a7c-4eed-9c4c-80ea041f8822",
+    "email": "admin@namasys.co",
+    "password": "admin123"
+}
